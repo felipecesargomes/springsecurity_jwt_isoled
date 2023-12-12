@@ -1,0 +1,54 @@
+# Arquivos compilados do Java
+*.class
+
+# Arquivos de pacote
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# diretórios criados pelo Maven
+target/
+
+# Arquivos criados pelo Eclipse
+*.pydevproject
+.project
+.metadata
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# Arquivos criados pelo IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Arquivos de Log
+*.log
+
+# Arquivos temporários do sistema
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# Arquivos de build e diretórios de distribuição
+bin/
+gen/
+out/
+dist/
+build/
+
+# Arquivos e diretórios ignorados pelo Angular
+node_modules/
+npm-debug.log
+yarn-error.log
